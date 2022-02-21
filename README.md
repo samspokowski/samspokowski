@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @samspokowski
+- 👀 I’m interested in delivering high-quality software.  I like test automation, security, and eliminating low-value tasks.
