@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @samspokowski
+- 👋 Hi, I’m @samspokowski.  I'm a full stack software engineer who is passionate about building high-quality web applications.  I'm primarily experienced with JavaScript and Java.
 - 👀 I’m interested in delivering high-quality software.  I like test automation, security, and eliminating low-value tasks.
